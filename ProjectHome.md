@@ -1,0 +1,1 @@
+LuaSrcDiet reduces the size of Lua 5.1.x source files by aggressively removing all unnecessary whitespace and comments, optimizing constant tokens, and renaming local variables to shorter names.
